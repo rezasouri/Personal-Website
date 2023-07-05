@@ -1,0 +1,50 @@
+.overlay{
+    width: 0%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(3,127,255,.2);
+}
+.listItem:hover .overlay{
+width: 100%;
+transition: 0.4s;
+}
+.listItem:hover .listItemText{
+    color:#0d6efd !important;
+    transition: 0.4s;
+}
+.list1{
+    width: 1px;
+    min-height: 100%;
+    display: inline-block;
+    background-color: rgba(46,52,78,.3);
+    left: 20%;
+    position: absolute;
+    z-index: -1;
+}
+.list2{
+    width: 1px;
+    min-height: 100%;
+    display: inline-block;
+    background-color: rgba(46,52,78,.3);
+    left: 40%;
+    position: absolute;
+    z-index: -1;
+}
+.list3{
+    width: 1px;
+    display: inline-block;
+    min-height: 100%;
+    background-color: rgba(46,52,78,.3);
+    left: 60%;
+    position: absolute;
+    z-index: -1;
+}
+.list4{
+    width: 1px;
+    display: inline-block;
+    min-height: 100%;
+    background-color: rgba(46,52,78,.3);
+    left: 80%;
+    position: absolute;
+    z-index: -1;
+}

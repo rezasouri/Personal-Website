@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Personal-Website/static/css/main.cbd90578.chunk.css",
+    "main.js": "/Personal-Website/static/js/main.1d76edb0.chunk.js",
+    "main.js.map": "/Personal-Website/static/js/main.1d76edb0.chunk.js.map",
+    "runtime-main.js": "/Personal-Website/static/js/runtime-main.7d623958.js",
+    "runtime-main.js.map": "/Personal-Website/static/js/runtime-main.7d623958.js.map",
+    "static/js/2.d42f299b.chunk.js": "/Personal-Website/static/js/2.d42f299b.chunk.js",
+    "static/js/2.d42f299b.chunk.js.map": "/Personal-Website/static/js/2.d42f299b.chunk.js.map",
+    "static/js/3.0ccd6d5f.chunk.js": "/Personal-Website/static/js/3.0ccd6d5f.chunk.js",
+    "static/js/3.0ccd6d5f.chunk.js.map": "/Personal-Website/static/js/3.0ccd6d5f.chunk.js.map",
+    "index.html": "/Personal-Website/index.html",
+    "static/css/main.cbd90578.chunk.css.map": "/Personal-Website/static/css/main.cbd90578.chunk.css.map",
+    "static/js/2.d42f299b.chunk.js.LICENSE.txt": "/Personal-Website/static/js/2.d42f299b.chunk.js.LICENSE.txt",
+    "static/media/fontiran.css": "/Personal-Website/static/media/IRANSansWeb_UltraLight.aea41276.eot",
+    "static/media/main.c0f72d7c.jpg": "/Personal-Website/static/media/main.c0f72d7c.jpg",
+    "static/media/profile.f6f89dc4.jpg": "/Personal-Website/static/media/profile.f6f89dc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d623958.js",
+    "static/js/2.d42f299b.chunk.js",
+    "static/css/main.cbd90578.chunk.css",
+    "static/js/main.1d76edb0.chunk.js"
+  ]
+}
